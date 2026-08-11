@@ -36,7 +36,7 @@ a local server with PHP + MySQL, for example XAMPP, WAMP, or MAMP:
 
 PROJECT STRUCTURE - WHAT EACH FILE DOES
 ------------------------------------------
-
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 task-manager-php/
 |
 |-- README.md
@@ -98,6 +98,7 @@ task-manager-php/
 |       single click (UPDATE query), then redirects back to index.php.
 |       No visible page, it just performs the action.
 
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 HOW THE CODE FLOWS (SIMPLE VERSION)
 --------------------------------------
